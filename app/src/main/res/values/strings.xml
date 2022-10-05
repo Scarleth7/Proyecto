@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="textview1">Spill</string>
+    <string name="textview2">Recomendaciones para ti</string>
+    <string name="button">mostrar mas</string>
+    <string name="textview3">Categorias</string>
+    <string name="textview4">Acción</string>
+    <string name="textview5">Educación</string>
+    <string name="textview6">Aventura</string>
+    <string name="textview7">Tienda</string>
+    <string name="textview8">Categorias</string>
+    <string name="textview9">Precios</string>
+    <string name="textview10">Popularidad</string>
+    <string name="textview11">Tarjeta de regalo</string>
+    <string name="textview12">Puntos de juegos</string>
+    <string name="button1">Iniciar Sesion</string>
+    <string name="button2">Registrarse</string>
+    <string name="textview13">Identificate</string>
+    <string name="textview14">Telefono</string>
+    <string name="textview15">Correo electronico</string>
+    <string name="textview16">E-mail</string>
+    <string name="textview17">Contraseña</string>
+    <string name="button3">Iniciar Sesion</string>
+    <string name="textview18">Registrate</string>
+    <string name="textview19">Confirmar contraseña</string>
+    <string name="button4">Registrate</string>
+    <string name="textview20">Lucha</string>
+    <string name="textview21">Deportes</string>
+    <string name="textview22">Rompecabezas</string>
+    <string name="textview23">Estrategia</string>
+    <string name="textview24">Carreras</string>
+    <string name="textview25">FPS/TPS</string>
+    <string name="textview26">Arcade</string>
+    <string name="textview27">Simulación</string>
+    <string name="textview28">Grand Theft Auto V: Premium Online Edition Rockstar Games Launcher Key GLOBAL</string>
+    <string name="textview29">4.8/5</string>
+    <string name="button5">Acción</string>
+    <string name="button6">Aventura</string>
+    <string name="textview30">Acerca de</string>
+    <string name="textview31">Sobre Nosotros</string>
+    <string name="textview32">Comprar</string>
+    <string name="textview33">Ayuda</string>
+    <string name="textview34">Contactanos</string>
+    <string name="textview35">Blog</string>
+    <string name="textview36">Como comprar</string>
+    <string name="textview37">Colecciones</string>
+    <string name="textview38">Como activar el juego</string>
+    <string name="textview39">Siguenos</string>
+    <string name="textview40">Guardado</string>
+    <string name="textview41">Productos</string>
+    <string name="textview42">Añade tus preferencias</string>
+    <string name="button7">Guardar</string>
+    <string name="multi2">Aun no tienes productos en tu lista de deseos</string>
+
+
+
+</resources>
