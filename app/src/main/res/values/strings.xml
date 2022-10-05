@@ -49,8 +49,22 @@
     <string name="textview40">Guardado</string>
     <string name="textview41">Productos</string>
     <string name="textview42">Añade tus preferencias</string>
+    <string name="textview43">Comentarios</string>
+    <string name="textview44">Juan Perez</string>
+    <string name="textview45">Mostrar mas</string>
     <string name="button7">Guardar</string>
+    <string name="button8">Amigos</string>
     <string name="multi2">Aun no tienes productos en tu lista de deseos</string>
+    <string name="multi3">Es un muy buen juego, buenas graficas, buenas armas, 10/10</string>
+    <string name="multi4">Aun no tienes productos en tu lista de compra</string>
+    <string name="textview46">Navega aquí</string>
+    <string name="textview47">Dejanos saber tu opinio</string>
+    <string name="textview48">Maria Vergara</string>
+    <string name="textview49">ALexander Diaz</string>
+    <string name="textview50">Cargar más</string>
+    <string name="edittext">Escribenos aquí</string>
+    <string name="multi5">Es una pagina muy buena, tiene juegos muy interesantes, de todo tipo, y es bastante barato en comparacion a otros</string>
+    <string name="multi6">Me gusta esta pagina, es muy interactiva y rapida, no te pone mayor problema en las opciones de pago</string>
 
 
 

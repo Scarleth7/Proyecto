@@ -163,10 +163,9 @@
                 android:layout_width="105dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:background="#FFEB3B"
                 android:fontFamily="casual"
                 android:text="@string/textview20"
-                android:textColor="@color/black"
+                android:textColor="@color/yellow"
                 android:textSize="20dp"
                 android:textStyle="bold" />
 
@@ -176,10 +175,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:background="#FFEB3B"
                 android:fontFamily="casual"
                 android:text="@string/textview6"
-                android:textColor="@color/black"
+                android:textColor="@color/yellow"
                 android:textSize="20dp"
                 android:textStyle="bold" />
         </TableRow>
@@ -193,10 +191,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:background="#FFEB3B"
                 android:fontFamily="casual"
                 android:text="@string/textview4"
-                android:textColor="@color/black"
+                android:textColor="@color/yellow"
                 android:textSize="20dp"
                 android:textStyle="bold" />
 
@@ -205,11 +202,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:background="#FFEB3B"
                 android:backgroundTint="#FFEB3B"
                 android:fontFamily="casual"
                 android:text="@string/textview21"
-                android:textColor="@color/black"
+                android:textColor="@color/yellow"
                 android:textSize="20dp"
                 android:textStyle="bold" />
         </TableRow>
@@ -223,11 +219,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:background="#FFEB3B"
-                android:backgroundTint="#FFEB3B"
                 android:fontFamily="casual"
                 android:text="@string/textview23"
-                android:textColor="@color/black"
+                android:textColor="@color/yellow"
                 android:textSize="20dp"
                 android:textStyle="bold" />
 
@@ -236,11 +230,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:background="#FFEB3B"
                 android:backgroundTint="#FFEB3B"
                 android:fontFamily="casual"
                 android:text="@string/textview22"
-                android:textColor="@color/black"
+                android:textColor="@color/yellow"
                 android:textSize="20dp"
                 android:textStyle="bold" />
         </TableRow>

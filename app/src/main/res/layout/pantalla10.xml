@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3361CC">
+
+    <ImageView
+        android:id="@+id/imageView47"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="153dp"
+        android:layout_marginBottom="665dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageView49"
+        app:layout_constraintStart_toEndOf="@+id/imageView48"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/imagen_2022_09_27_234107276_removebg_preview" />
+
+    <ImageView
+        app:tint="@color/white"
+        android:id="@+id/imageView48"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="665dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageView47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_6033" />
+
+    <ImageView
+        app:tint="@color/white"
+        android:id="@+id/imageView49"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="94dp"
+        android:layout_marginBottom="665dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView47"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/carrito_de_compras" />
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="49dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="524dp"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="@string/multi4"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView47" />
+
+    <TextView
+        android:id="@+id/textView53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="49dp"
+        android:layout_marginEnd="251dp"
+        android:layout_marginBottom="1dp"
+        android:background="#040303"
+        android:fontFamily="casual"
+        android:text="@string/textview46"
+        android:textColor="@color/yellow"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine4" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="412dp"
+        android:layout_height="471dp"
+        android:layout_marginTop="1dp"
+        android:background="#09186C"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView53">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/imageView44"
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    app:srcCompat="@drawable/arcada"
+                    app:tint="@color/white" />
+
+                <TextView
+                    android:id="@+id/textView56"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:fontFamily="casual"
+                    android:text="@string/textview26"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView50"
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    app:srcCompat="@drawable/bandera_de_carreras__1_"
+                    app:tint="@color/white" />
+
+                <TextView
+                    android:id="@+id/textView57"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="casual"
+                    android:text="@string/textview24"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView51"
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    app:srcCompat="@drawable/deportes_con_balones"
+                    app:tint="@color/white" />
+
+                <TextView
+                    android:id="@+id/textView58"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="casual"
+                    android:text="@string/textview21"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView52"
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    app:srcCompat="@drawable/lucha"
+                    app:tint="@color/white" />
+
+                <TextView
+                    android:id="@+id/textView59"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="casual"
+                    android:text="@string/textview20"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
